@@ -65,3 +65,4 @@ git clone git@github.com:neomoon007/kickstart.nvim.git
 - Catpputtin theme (for the terminal)
 - Mononoki Nerd Font (for the terminal)
 - ZSH 
+- fm6000 (for it for my zsh config) // ricing
