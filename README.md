@@ -2,6 +2,10 @@
 These are my config files.
 
 ## Install
+1. Run this command:
+```
+git clone https://github.com/neomoon007/config-files
+```
 
 ### ZSH
 1. Copy .zshrc to home directory (top-level folder inside repo):
