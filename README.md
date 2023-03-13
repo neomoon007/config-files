@@ -70,3 +70,4 @@ git clone git@github.com:neomoon007/kickstart.nvim.git
 - Mononoki Nerd Font (for the terminal)
 - ZSH 
 - fm6000 (for it for my zsh config) // ricing
+- Exa (Linux package)
