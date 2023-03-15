@@ -19,20 +19,11 @@ mkdir ~/.config/
 cp .config/zsh ~/.config/zsh
 ```
 
-3. Inside ~/.config/zsh/ run this command:
+3. In your home folder, run these commands:
 ```
-git clone https://github.com/zsh-users/zsh-autosuggestions
-cd zsh-autosuggestions/
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.config/zsh/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.config/zsh/zsh-syntax-highlighting
 ```
-4. See INSTALL.md to install the plugin
-
-5. Run these two commands inside the ~/.config/zsh/ directory:
-```
-git clone https://github.com/zsh-users/zsh-syntax-highlighting
-cd zsh-syntax-highlighting/
-```
-
-6. See INSTALL.md to install the plugin
 
 #### ZSH config dependencies
 - Starship.rs
